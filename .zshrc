@@ -27,4 +27,8 @@ add-zsh-hook chpwd load-nvmrc
 load-nvmrc
 
 # spaceship prompt
-source /opt/homebrew/opt/spaceship/spaceship.zsh
+source $(brew --prefix)/opt/spaceship/spaceship.zsh
+
+# autosuggestions
+source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

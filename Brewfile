@@ -6,7 +6,10 @@ cask "pixelsnap"
 cask "bartender"
 
 brew "starship"
+brew "zsh-autosuggestions"
+brew "zsh-syntax-highlighting"
 brew "gh"
+cask "github"
 cask "figma"
 cask "discord"
 
