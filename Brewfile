@@ -4,6 +4,8 @@ cask "swish"
 cask "cleanshot"
 cask "pixelsnap"
 cask "bartender"
+cask "alt-tab"
+cask "spaceman"
 
 brew "starship"
 brew "zsh-autosuggestions"
