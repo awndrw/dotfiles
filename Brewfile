@@ -12,6 +12,7 @@ brew "gh"
 cask "github"
 cask "figma"
 cask "discord"
+cask "crossover"
 
 tap "homebrew/cask-fonts"
 cask "font-jetbrains-mono-nerd-font"
