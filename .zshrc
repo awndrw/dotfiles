@@ -1,5 +1,6 @@
 # oh-my-zsh
 export ZSH="$HOME/.oh-my-zsh"
+zstyle ':omz:update' mode auto
 plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
