@@ -14,6 +14,9 @@ cask "figma"
 cask "discord"
 cask "crossover"
 
+tap "oven-sh/bun"
+brew "bun"
+
 tap "homebrew/cask-fonts"
 cask "font-jetbrains-mono-nerd-font"
 cask "font-jetbrains-mono"
